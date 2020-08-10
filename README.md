@@ -5,5 +5,6 @@ I do open-source, web tech, and currently [Google Cloud Certified](https://googl
 Creator of [StickyNoted](https://stickynoted.xyz), note-taking app with Markdown flavour.
 
 Other online profile:
-= [Blog](https://antonybudianto.com)
+
+- [Blog](https://antonybudianto.com)
 - [LinkedIn](https://www.linkedin.com/in/antonybudianto/)
