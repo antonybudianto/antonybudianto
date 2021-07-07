@@ -6,5 +6,5 @@ Creator of [Deesain](https://deesain.com) and [StickyNoted](https://stickynoted.
 
 Other online profile:
 
-- [Blog](https://antonybudianto.com)
+- [Blog - coming soon](https://antonybudianto.com)
 - [LinkedIn](https://www.linkedin.com/in/antonybudianto/)
