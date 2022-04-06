@@ -6,5 +6,5 @@ Creator of [Deesain](https://deesain.netlify.com) and [StickyNoted](https://stic
 
 Other online profile:
 
-- [Blog - coming soon](https://antonybudianto.com)
+- [Blog](https://antonybudianto.com/blog)
 - [LinkedIn](https://www.linkedin.com/in/antonybudianto/)
