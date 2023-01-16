@@ -10,5 +10,3 @@ Other online profile:
 - [LinkedIn](https://www.linkedin.com/in/antonybudianto/)
 
 ___
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=antonybudianto&show_icons=true&theme=nightowl&locale=en" alt="antonybudianto" /></p>
