@@ -2,7 +2,7 @@
 
 Hi, I'm Antony from Indonesia. I've 8+ years experience on web development from various industry (B2B, HRIS, E-Commerce, Fintech, CRM, Omni-channel).
 
-I spent most of my time for code reviews, do automation, code contribution, research and suggest improvement/optimization, and improve my team's skill through mentoring.
+I spent most of my time on Web development and also learned many other stacks along the journey to understand the whole picture better. 
 
 I also sometimes do open-source, and was [Google Cloud Certified](https://googlecloudcertified.credential.net/profile/18610c1496ce93ad6925d78d20c221a35172dcf6).
 
