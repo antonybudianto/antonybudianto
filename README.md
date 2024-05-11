@@ -6,7 +6,7 @@ I spent most of my time on Web development and also learned many other stacks al
 
 I also sometimes do open-source, and was [Google Cloud Certified](https://googlecloudcertified.credential.net/profile/18610c1496ce93ad6925d78d20c221a35172dcf6).
 
-and lastly, Creator of [Deesain](https://deesain.netlify.com) and [StickyNoted](https://stickynoted.netlify.com).
+and lastly, Creator of [Deesain](https://deesain.netlify.app) and [StickyNoted](https://stickynoted.netlify.app).
 
 ### Some of notable professional achievements:
 
